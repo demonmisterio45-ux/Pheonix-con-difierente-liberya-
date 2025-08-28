@@ -56,9 +56,9 @@ local Tabs = {
 local Options = Library.Options
 
 Library:Notify{
-    Title = "Welcome to Nebula Hub",
-    Content = "Nebula Hub supports 6 games!",
-    SubContent = "This game is muscle legends and currently in beta!", -- Optional
+    Title = "Bienvenido a Pheonix Hub",
+    Content = "Este es un script público ",
+    SubContent = "copia el link del servidor de discord para comprar la versión de paga", -- Optional
     Duration = 13 -- Set to nil to make the notification not disappear
 }
 
